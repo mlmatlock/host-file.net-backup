@@ -45744,4 +45744,6 @@
 127.0.0.1	zzptzdhugavot.review
 127.0.0.1	zzz.clickbank.net
 127.0.0.1	_thums.ero-advertising.com
-# Hosts: 45736
+127.0.0.1   adfstat.yandex.ru
+127.0.0.1   offerwall.yandex.net
+# Hosts: 45738
