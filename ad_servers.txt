@@ -45744,6 +45744,16 @@
 0.0.0.0	zzptzdhugavot.review
 0.0.0.0	zzz.clickbank.net
 0.0.0.0	_thums.ero-advertising.com
-0.0.0.0   adfstat.yandex.ru
-0.0.0.0   offerwall.yandex.net
-# Hosts: 45738
+0.0.0.0 adfstat.yandex.ru
+0.0.0.0 offerwall.yandex.net
+0.0.0.0 ads-api.tiktok.com
+0.0.0.0 ads-sg.tiktok.com
+0.0.0.0 business-api.tiktok.com
+0.0.0.0 log.byteoversea.com
+0.0.0.0 data.mistat.india.xiaomi.com
+0.0.0.0 data.mistat.rus.xiaomi.com
+0.0.0.0 bdapi-ads.realmemobile.com
+0.0.0.0 bdapi-in-ads.realmemobile.com
+0.0.0.0 ck.ads.oppomobile.com
+0.0.0.0 grs.hicloud.com
+# Hosts: 45748
